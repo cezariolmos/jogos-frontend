@@ -4,4 +4,4 @@ const api = axios.create({
     baseURL: 'https://jogosbackend.herokuapp.com'
 });
 
-export default api; 
+export default api;  
